@@ -1,0 +1,35 @@
+html, body{
+    background-color: black;
+}
+.placeholder1{
+    border-color: white;
+    border:0;
+    border-radius: 6px;
+    margin-bottom: 8px
+}
+
+.placeholder2{
+    border-color: green;
+    border:3;
+    border-radius: 6px;
+    margin-bottom: 8px
+}
+
+.placeholder3{
+    border-color: red;
+    border:3;
+    border-radius: 6px;
+    margin-bottom: 8px
+}
+
+div{
+    margin: auto;
+    width: 250px;
+    box-sizing: border-box;
+}
+input{
+    border-style: solid; 
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+}
